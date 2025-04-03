@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Scott Fuller</h1>
-<h3 align="center">A passionate future developer from England</h3>
+<h3 align="center">A future developer from England</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sf-08&label=Profile%20views&color=0e75b6&style=flat" alt="sf-08" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sf-08" alt="sf-08" /></a> </p>
 
-- 🌱 I’m currently learning **cybersecurity & how to make applications for corporations.**
+- 🌱 I’m currently learning **frontend web development, tailwind css and react.**
 
-- 👯 I’m looking to collaborate on **python projects**
+- 👯 I’m looking to collaborate on **python projects / website projects**
 
-- 🤝 I’m looking for help with **desktop / mobile applications**
+- 🤝 I’m looking for help with **PHP, MySQL**
 
 - 📫 How to reach me **scottrobfuller@gmail.com**
 
