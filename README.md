@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sf-08&label=Profile%20views&color=0e75b6&style=flat" alt="sf-08" /> </p>
 
-- 🌱 I’m currently learning **Flutter, Firebase and React**
+- 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **Frontend Development**
 
