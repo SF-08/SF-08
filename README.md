@@ -3,6 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sf-08&label=Profile%20views&color=0e75b6&style=flat" alt="sf-08" /> </p>
 
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sf-08&row=2&column=4&margin-w=20&margin-h=15&title=MultiLanguage,Commits,PullRequest,Repositories,Stars,Followers,Experience,Issues" alt="sf-08" />
+  </a>
+</p>
+
 - 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **Frontend Development**
