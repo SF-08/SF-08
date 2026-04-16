@@ -5,7 +5,7 @@ I'm a Web & App Developer
 -------------------------
 
 * 🌍  I'm based in Kent
-* 🖥️  See my portfolio at [TBA](TBA)
+* 🖥️  See my portfolio at [scottfuller.dev/](https://www.scottfuller.dev/)
 * ✉️  You can contact me at [shrgf08@icloud.com](mailto:shrgf08@icloud.com)
 
 
